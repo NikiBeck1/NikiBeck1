@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niki Beck
-- 👀 I’m a front-end developer
-- 🌱 I’m currently obsessed with JavaScrip and jQuery
+- 👀 I’m a front-end developer and UI/UX Designer
+- 🌱 I’m currently obsessed with React and SQL
 - 💞️ I’m looking to collaborate on projects where I can focus on UX Design
 - 📫 If you think we could be a good fit connect with me at Niki@wearehamburger.com
 
